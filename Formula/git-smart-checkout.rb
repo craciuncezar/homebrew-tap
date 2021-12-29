@@ -1,4 +1,4 @@
-class Gitsmartcheckout < Formula
+class GitSmartCheckout < Formula
     desc "A git command extension for switching git branches more efficiently."
     homepage "https://github.com/craciuncezar/git-smart-checkout"
     url "https://github.com/craciuncezar/git-smart-checkout/releases/download/v0.1.0/git-smart-checkout.tar.gz"
